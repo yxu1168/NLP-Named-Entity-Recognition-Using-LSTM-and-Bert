@@ -3,7 +3,7 @@ Two Notebooks are included in this Repo for Named Entity Recognition:
 1. Bidirectional LSTM Tensorflow for Named Entity Recognition.
 2. Bert Tensorflow for Named Entity Recognition.
 
-Bert: Train_acc: 0.9961, Valodate_acc: 0.9938
+Bert: Train_acc: 0.9961, Validate_acc: 0.9938
 
 LSTM: Train_acc: 0.9904, Validate_acc: 0.9806
 
